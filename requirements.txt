@@ -1,0 +1,1 @@
+pandas numpy scikit-learn tensorflow websocket-client ccxt
